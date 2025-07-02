@@ -24,6 +24,13 @@ I’m a motivated Business Information Systems student with a passion for turnin
 
 ## 🌟 Featured Projects
 
+### [**Crypto Dashboard**](https://seifamr-c.github.io/Crypto-Dashboard/)  
+  A responsive web app that displays real-time cryptocurrency data from an API. Built with HTML, CSS, and vanilla JavaScript.
+
+### [**To-do-list app**]((https://github.com/SeifAmr-c/To-Do-List)) 
+  A simple and clean task manager with localStorage for persistent data storage.
+
+
 ### 🌦️ [Weather App](https://github.com/SeifAmr-c/weather-app)
 A simple responsive web app that lets users check the weather in any city using the OpenWeatherMap API.
 
