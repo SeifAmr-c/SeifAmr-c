@@ -3,7 +3,7 @@
 🎓 Dual B.B.I.S. student at  
 **Arab Academy for Science, Technology & Maritime Transport (Egypt)**  
 **University of Northampton (UK)**  
-📈 GPA: **3.78** Excellent With Honors
+📈 GPA: **3.78** Excellent With Honors 
 
 ---
 
